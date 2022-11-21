@@ -17,6 +17,6 @@ For more information about the Knime platform you might visit https://www.knime.
 
 **Running the workflow:**
 
-![alt text](https://github.com/malikyousef/PriPath/blob/main/images/PriPath_main.PNG?raw=true)
+![alt text](https://github.com/malikyousef/MicroBiomeNET/blob/main/Workflow.PNG)
 
 
