@@ -1,5 +1,13 @@
 # MicroBiomeNET
 
+## Knime ##
+MicroBiomeNET tool is a Knime workflow. In order to run the workflow, you need to download Knime and install it in your local machine.
+This is the link for downloading Knime: https://www.knime.com/downloads<br>
+For more information about the Knime platform you might visit https://www.knime.com/software-overview <br>
+See this [page](pages/SettingsKnime.md) for information about setting Knime.
+
+
+
 In this paper, we introduce some basic concepts, tools, and methods known as MicroBiomeNet to computationally determine the molecular pathways that govern microbe-host associations.
 
 The goal is to use machine learning (G-S-M) to uncover the impact of microbiome sequencing on specific diseases. 
