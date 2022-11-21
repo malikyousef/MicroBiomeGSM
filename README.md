@@ -13,4 +13,10 @@ This is the link for downloading Knime: https://www.knime.com/downloads<br>
 For more information about the Knime platform you might visit https://www.knime.com/software-overview <br>
 
 
+## MicroBiomeNET main workflow is: ##
+
+**Running the workflow:**
+
+![alt text](https://github.com/malikyousef/PriPath/blob/main/images/PriPath_main.PNG?raw=true)
+
 
